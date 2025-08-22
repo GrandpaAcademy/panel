@@ -8,7 +8,9 @@ bash <(curl -s https://raw.githubusercontent.com/GrandpaAcademy/panel/refs/heads
 ### Wings
 
 ```bash
+# root need 
 sudo su
+
 bash <(curl -s https://raw.githubusercontent.com/GrandpaAcademy/panel/refs/heads/main/wings.sh)
 ```
 
