@@ -2,6 +2,9 @@
 
 ### Panel Dashboard
 ```bash
+# use root to best experience
+sudo su
+
 bash <(curl -s https://raw.githubusercontent.com/GrandpaAcademy/panel/refs/heads/main/panel.sh)
 ```
 
