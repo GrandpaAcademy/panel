@@ -1,6 +1,24 @@
 #!/bin/bash
+clear
 
-echo "SanjitGaming | Installing Pterodactyl wings with Docker..."
+# Colors
+RED='\033[0;31m'
+GRN='\033[0;32m'
+CYN='\033[0;36m'
+YEL='\033[1;33m'
+NC='\033[0m' # No Color
+
+echo -e "${YEL}"
+cat << "EOF"
+ ██████╗  █████╗ 
+██╔════╝ ██╔══██╗
+██║  ███╗███████║
+██║   ██║██╔══██║
+╚██████╔╝██║  ██║
+ ╚═════╝ ╚═╝  ╚═╝
+EOF
+echo -e "${NC}"
+echo "GrandpaAcademy | Installing Pterodactyl wings with Docker..."
 
 # Step 1: Create directory structure
 mkdir -p pterodactyl/wings
