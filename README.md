@@ -2,14 +2,14 @@
 
 ### Panel Dashboard
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/GrandpaAcademy/panel/refs/heads/main/panel)
+bash <(curl -s https://raw.githubusercontent.com/GrandpaAcademy/panel/refs/heads/main/panel.sh)
 ```
 
 ### Wings
 
 ```bash
 sudo su
-bash <(curl -s https://raw.githubusercontent.com/GrandpaAcademy/panel/refs/heads/main/wings)
+bash <(curl -s https://raw.githubusercontent.com/GrandpaAcademy/panel/refs/heads/main/wings.sh)
 ```
 
 ### Connect 
